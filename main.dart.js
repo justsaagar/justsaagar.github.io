@@ -9864,9 +9864,7 @@ a9h:function a9h(){},
 a9j:function a9j(){},
 hd:function hd(a,b){var _=this
 _.c=a
-_.d=4
-_.e=1
-_.r=_.f=0
+_.r=_.f=_.e=_.d=0
 _.w=null
 _.k4$=0
 _.ok$=b
